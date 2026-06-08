@@ -20,4 +20,5 @@ I bridge the gap between deep operational business knowledge and modern data sta
 
 ### 🚀 Current Focus
 
-Completing an intensive **Master Executive in Data & AI Analysis**, focusing on building agentic applications and automating business insights through data optimization.
+Co-Founder of Pizzindex: Developing an innovative, data-driven platform focused on pizza pricing analytics and market trends.
+Developing advanced Data & AI projects, focusing on machine learning applications and data-driven optimization.
